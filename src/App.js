@@ -42,7 +42,7 @@ function SimilarPaternDynami(props){
     backgroundColor: 'yellow',
     color: 'green',
     padding: '5px',
-    marginTop: '5px'new-cars | condition, used-cars | condition,
+    marginTop: '5px'
   }
   return(
     <div>
